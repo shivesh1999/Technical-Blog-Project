@@ -1,0 +1,23 @@
+.body
+{
+    background-color:#FCFCFC;
+}
+.navbar{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.btn btn-outline-primary
+{
+    color:white;
+    border-color: white;
+}
+.container-xxl
+{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.nav-item dropdown
+{
+    color: white;
+}
