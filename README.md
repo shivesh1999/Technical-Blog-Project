@@ -1,4 +1,3 @@
 # Technical-Blog-Project
-Technical Blog project is a web based platform where user can register themself and share their opinions on the latest technology trends.
-
-Tools used: HTML,CSS,Bootstrap,NodeJS,ExpressJS,MongoDB.
+This project is a javascript based web application which acts as a blogging website. 
+Technology stack - Javascript, Node.js, Express.js, MongoDB
